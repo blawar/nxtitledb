@@ -1992,6 +1992,43 @@
         "size": 1039138816,
         "version": null
     },
+    "70010000080132": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/aad10f6c162b1a8adfd1438bea12378cc1d46295eb321c3cce44e9f836057d44.jpg",
+        "category": [
+            "\u52a8\u4f5c",
+            "\u5e73\u53f0\u8df3\u8dc3"
+        ],
+        "description": "\u7528\u5927\u5927\u7684\u5634\u5df4\u628a\u654c\u4eba\u5438\u8fdb\u53bb\uff0c\u5361\u6bd4\u80fd\u591f\u590d\u5236\u654c\u4eba\u7684\u80fd\u529b\uff01\u9047\u5230\u4e0d\u540c\u7684\u654c\u4eba\uff0c\u83b7\u5f97\u7684\u590d\u5236\u80fd\u529b\u4e5f\u4f1a\u4e0d\u540c\u3002\n\u5361\u6bd4\u8fd8\u80fd\u591f\u6295\u63b7\u7231\u5fc3\uff0c\u628a\u654c\u4eba\u53d8\u6210\u540c\u4f34\uff0c\u5c06\u540c\u4f34\u6362\u6765\u6362\u53bb\uff0c4\u4eba\u5408\u4f5c\u4e00\u8d77\u5192\u9669\uff01\n\u5361\u6bd4\u7684\u590d\u5236\u80fd\u529b\u548c\u540c\u4f34\u7684\u80fd\u529b\u7ed3\u5408\u5728\u4e00\u8d77\uff0c\u5c31\u80fd\u53d1\u52a8\u65b0\u7684\u201c\u76df\u53cb\u80fd\u529b\u201d\u3002\u201c\u76df\u53cb\u80fd\u529b\u201d\u65e2\u6709\u5229\u4e8e\u4e0e\u654c\u4eba\u6218\u6597\uff0c\u53c8\u80fd\u89e3\u5f00\u88c5\u7f6e\uff0c\u901a\u8fc7\u7ec4\u5408\u5404\u79cd\u80fd\u529b\u6765\u53d1\u73b0\u65b0\u80fd\u529b\u4e5f\u662f\u4e00\u79cd\u4e50\u8da3\u3002\n\u901a\u8fc7\u5206\u4eabJoy-Con\uff0c\u53ef\u4ee5\u4e0e\u670b\u53cb\u4e00\u8d77\u6e38\u73a9\uff0c\u5728\u6e38\u620f\u8fc7\u7a0b\u4e2d\u4e5f\u80fd\u81ea\u7531\u52a0\u5165\u6216\u9000\u51fa\u3002\u968f\u65f6\u968f\u5730\uff0c\u6700\u591a4\u4eba\u4e00\u8d77\u73a9\uff01\n\u56f4\u7ed5\u7740\u9ed1\u6697\u7684\u201c\u6781\u9b54\u4e4b\u5fc3\u201d\uff0c\u5f3a\u654c\u63a5\u4e8c\u8fde\u4e09\u5730\u6d8c\u73b0\u3002\u5361\u6bd4\u548c\u76df\u53cb\u4eec\uff0c\u80fd\u591f\u62ef\u6551\u4e16\u754c\u5417\uff1f",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/80ff9af6407711610995a5ecf8ecff6267b1671a48191843c4abc4b51962230d.jpg",
+        "id": "0100D92010664000",
+        "intro": "\u9ed1\u6697\u52bf\u529b\u6269\u5f20\uff0c\u5168\u94f6\u6cb3\u9677\u5165\u5927\u5371\u673a\uff1f\uff01",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "zh"
+        ],
+        "name": "\u661f\u4e4b\u5361\u6bd4 \u65b0\u661f\u540c\u76df",
+        "nsuId": 70010000080132,
+        "numberOfPlayers": 4,
+        "publisher": "\u4efb\u5929\u5802",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20240523,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/f7a59b556afb54855aaa2ec7a36ece1f3b31c511a84fa9ee1ed025b3273d8bb3.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/d52e4c3ac8f36f82c66bad14729f16d51c3f0a1d0231256253104d3ab2a2300c.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/363de42bfeb5a27face0af4f001dfb0187771914da1927927c21176a33e6c9d5.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/138508164739e04c238b5fd5397f9fdc13598e1e3cf2e6972e592fefbdee4843.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f4c1c2e2c46590d79053a721a8a2e8343ad3aa64449ce9eeca7bb1f1d74b64d0.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/faa71031063d6efb133e145042611d9a4e02ccf369a7c4809b9d6fc0710f2578.jpg"
+        ],
+        "size": 4070572032,
+        "version": null
+    },
     "70030000010121": {
         "bannerUrl": null,
         "category": null,
@@ -2198,6 +2235,32 @@
         "rightsId": null,
         "screenshots": null,
         "size": 1656750080,
+        "version": null
+    },
+    "70030000021261": {
+        "bannerUrl": null,
+        "category": null,
+        "description": null,
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": null,
+        "isDemo": true,
+        "key": null,
+        "languages": null,
+        "name": "\u661f\u4e4b\u5361\u6bd4 \u65b0\u661f\u540c\u76df\uff08\u4f53\u9a8c\u7248\uff09",
+        "nsuId": 70030000021261,
+        "numberOfPlayers": null,
+        "parentId": "0100D92010664000",
+        "publisher": null,
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": null,
+        "rightsId": null,
+        "screenshots": null,
+        "size": 870318080,
         "version": null
     },
     "70050000021588": {

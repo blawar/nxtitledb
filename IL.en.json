@@ -34,12 +34,12 @@
     "70050000047502": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c5c545553a32293bade0ef31b5afe3b12ba97934ccf6f50d543ff566ee5816c8.jpg",
         "category": null,
-        "description": "Enjoy three new game modes: \"Original,\" \"Time Limit,\" and \"Attack.\"\n\n\"Original\" is the usual Suika Game, and the player with the highest score wins. Once the box is full, play ends at that point. If the other side's score is higher, you win at that point. If you are losing, continue playing. Can you catch up to your opponent?!\n\n\"Time Limit\" is a 5-minute intense competition, and the player with the highest score wins. When the rainbow gauge runs out, Poppy will drop fruits on her own, so you'll need to make decisions faster than usual!\n\nIn \"Attack,\" the winner is the one who ends the opponent's game. On every 5th attempt, you can send \"sinking\" fruit to your opponent's box. Sending a big fruit would surely turn things around!\n\n\u203b Online play mode requires a subscription to \"Nintendo Switch Online\" (paid).\n\u203b Online play mode is planned for release around Spring 2024.",
+        "description": "Enjoy three new game modes: \"Original,\" \"Time Limit,\" and \"Attack.\"\n\n\"Original\" is the usual Suika Game, and the player with the highest score wins. Once the box is full, play ends at that point. If the other side's score is higher, you win at that point. If you are losing, continue playing. Can you catch up to your opponent?!\n\n\"Time Limit\" is a 5-minute intense competition, and the player with the highest score wins. When the rainbow gauge runs out, Poppy will drop fruits on her own, so you'll need to make decisions faster than usual!\n\nIn \"Attack,\" the winner is the one who ends the opponent's game. On every 5th attempt, you can send \"sinking\" fruit to your opponent's box. Sending a big fruit would surely turn things around!\n\n\u203b Online play mode requires a subscription to \"Nintendo Switch Online\" (paid).\n\u203b Online play mode is planned for release on May 23rd.",
         "developer": null,
         "frontBoxArt": null,
         "iconUrl": null,
         "id": null,
-        "intro": "A brand new two-player addition to the Suika Game is here; come and join the fun!",
+        "intro": "A brand new two-player addition to the Suika Game is here, come and join the fun!",
         "isDemo": false,
         "key": null,
         "languages": null,
@@ -50,7 +50,7 @@
         "rating": 3,
         "ratingContent": [],
         "region": null,
-        "releaseDate": 20240531,
+        "releaseDate": 20240523,
         "rightsId": null,
         "screenshots": [
             "https://img-eshop.cdn.nintendo.net/i/e69bb35e0012929c8fa87b64347eff48b064dd35b67f796e8a663c63cdd6d7d4.jpg",
@@ -60,7 +60,7 @@
             "https://img-eshop.cdn.nintendo.net/i/b36451a5c357c8d8b441cb40c3e71ca84c060792a43629e8cd2ea865811b3ba5.jpg",
             "https://img-eshop.cdn.nintendo.net/i/0d688bdca7aac74e2a7dbcf16eb4cb0fc1c591ff9015b81f40ecf3c320f6f10f.jpg"
         ],
-        "size": 0,
+        "size": 3145728,
         "version": null
     }
 }

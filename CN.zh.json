@@ -2002,6 +2002,45 @@
         "size": 288358400,
         "version": null
     },
+    "70010000079473": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/c7b0ab151e3e2fa2ced0af6a3cb6e9d2d1de3419ab5a7d2ffc1c2c3c5bf6ae21.jpg",
+        "category": [
+            "\u52a8\u4f5c",
+            "\u7b56\u7565",
+            "\u591a\u4eba",
+            "\u5408\u4f5c"
+        ],
+        "description": "\u300a\u5b9d\u53ef\u68a6\u5927\u96c6\u7ed3\u300b\u662f\u817e\u8baf\u5929\u7f8e\u5de5\u4f5c\u5ba4\u7fa4\u4e0eThe Pok\u00e9mon Company\u8054\u5408\u5f00\u53d1\u7684\u5b9d\u53ef\u68a6\u7cfb\u5217\u8f7b\u677e\u7ade\u6280\u6e38\u620f\u3002\n\u4f60\u5c06\u4e0e\u5176\u4ed6\u8bad\u7ec3\u5bb6\u7ec4\u961f\uff0c\u53c2\u52a0\u4ebf\u5965\u65af\u5c9b\u4e0a\u7684\u5404\u79cd\u6bd4\u8d5b\uff0c\u6d3e\u51fa\u5b9d\u53ef\u68a6\u8fdb\u884c\u7545\u5feb\u5bf9\u6218\uff01\u8fd8\u80fd\u4f53\u9a8c\u96ea\u7403\u6eda\u6eda\u4e50\u3001\u987d\u76ae\u96f7\u5f39\u6392\u7403\u3001\u5f3a\u654c\u5927\u6311\u6218\u3001\u6349\u6355\u5927\u4f5c\u6218\u7b49\u4e3b\u9898\u8d5b\u4e8b\uff01\n\u4e30\u5bcc\u7684\u5b9d\u53ef\u68a6\u7535\u5b50\u670d\u3001\u767e\u53d8\u7684\u8bad\u7ec3\u5bb6\u65f6\u88c5\uff0c\u4e5f\u5c06\u4e3a\u4f60\u7684\u96c6\u7ed3\u5bf9\u6218\u589e\u6dfb\u5149\u5f69\uff01",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": "https://img-eshop.cdn.nintendo.net/i/636b3b2edc33e7a70fdf4bf8a00e7076fcc37c764e70396ff5473a930d17bd57.jpg",
+        "id": "010094201E744000",
+        "intro": "\u5b9d\u53ef\u68a6\u7cfb\u5217 \u8f7b\u677e\u7ade\u6280\u6e38\u620f",
+        "isDemo": false,
+        "key": null,
+        "languages": [
+            "zh"
+        ],
+        "name": "\u5b9d\u53ef\u68a6\u5927\u96c6\u7ed3 \u6d4b\u8bd5\u7248",
+        "nsuId": 70010000079473,
+        "numberOfPlayers": 1,
+        "publisher": "\u4efb\u5929\u5802",
+        "rating": 0,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20240625,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/371dbf30aed7f33237d0d95de5f48d3947e6974fe46e7d21efcc76f30be350e6.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/df929d5603e2510957085abd70c3102e8cbb247e86c9891ac02e4f8c34865100.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/4662f190825e59ba40f895bd5c9ececa9893112a488ea6e6a8058c482300d975.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/eb0bc02128fb42d74d619e76690d9daf005dacd0885de6530650d9719b074a12.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/bba10c5887f88cafe7cea39b5ba3f2ff8fdc67e8b50eb5b3c9bf3f55e22b8aad.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/58ee510b625ed9d1bb8aabc588c235ad689f6dda387cfd7a35599e051014570e.jpg"
+        ],
+        "size": 4242538496,
+        "version": null
+    },
     "70010000079600": {
         "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/965dccf62ef597d83e87eb130f53a61ae727dd777c0d7d22bbe620456eb1680f.jpg",
         "category": [

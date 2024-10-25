@@ -62,5 +62,37 @@
         ],
         "size": 3145728,
         "version": null
+    },
+    "70050000052748": {
+        "bannerUrl": "https://img-eshop.cdn.nintendo.net/i/882210ec0d6e195c5c59dfa086c5522550b0d78bf2f6f09afba7f069c2f3d503.jpg",
+        "category": null,
+        "description": "- 14 interchangeable fruit parts\n- New designs for Poppy and boxes\n- Animated spooky Halloween display background skin\n- Special game start screen\n- Special background music",
+        "developer": null,
+        "frontBoxArt": null,
+        "iconUrl": null,
+        "id": null,
+        "intro": "Suika Game Skin Expansion Pack",
+        "isDemo": false,
+        "key": null,
+        "languages": null,
+        "name": "Halloween Party",
+        "nsuId": 70050000052748,
+        "numberOfPlayers": null,
+        "publisher": "Aladdin X",
+        "rating": 3,
+        "ratingContent": [],
+        "region": null,
+        "releaseDate": 20241025,
+        "rightsId": null,
+        "screenshots": [
+            "https://img-eshop.cdn.nintendo.net/i/2a1de64a9ed0f1103982bd057b48ab222015f496b615225248243566500b5035.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/8e3096f2fedddd577df93590265ce8a4541da4f04aed56712ba4c23940b80a03.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/6f32b5dd7735fe204fa10405b56a5055bac9d25dcc218412727dcdaa08a0bbb2.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/c6a137e22230a01b90e265290698c2b7dd306ec4ec747b3455bd5e24cffc6508.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/f2a3ec584d1e8b0617cd67ecfe2c13e4c506ce79c0dd2263395ecd510e3add48.jpg",
+            "https://img-eshop.cdn.nintendo.net/i/7e5a7e7182c7d5326df6a8e9e929320a26004d2fe85e926852ffd82415a0140a.jpg"
+        ],
+        "size": 3145728,
+        "version": null
     }
 }
